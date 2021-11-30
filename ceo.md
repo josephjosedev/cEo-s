@@ -7,4 +7,6 @@
 | **Adobe Systems** |**Shantanu Narayen**| <img src="https://knowledge.wharton.upenn.edu/wp-content/uploads/2007/05/Shantanu-Narayen-photo-by-Kendall-Whitehouse.jpg" width="200px">   |
 | **VMware** |**Raghu Raghuram**| <img src="https://exchange4media.gumlet.io/news-photo/112936-main-2021-05-13T144236.425.jpg?format=webp&w=400&dpr=2.6" width="200px">   |
 | **Google Cloud** |**Thomas Kurian**| <img src="https://i.insider.com/5cb4b19e8955117cb74c34f3?width=1136&format=jpeg" width="200px">   |
+| **Palo Alto Networks** |**Nikesh Arora**| <img src="https://sugermint.com/wp-content/uploads/2020/06/Nikesh-Arora.jpg" width="200px">   |
+
 
