@@ -9,5 +9,3 @@
 | **Google Cloud** |**Thomas Kurian**| <img src="https://i.insider.com/5cb4b19e8955117cb74c34f3?width=1136&format=jpeg" width="200px">   |
 | **NetApp** |**George Kurian**| <img src="https://img.theweek.in/content/dam/week/magazine/theweek/cover/images/2021/10/14/george-kurian.jpg" width="200px">   |
 | **Palo Alto Networks** |**Nikesh Arora**| <img src="https://sugermint.com/wp-content/uploads/2020/06/Nikesh-Arora.jpg" width="200px">   |
-
-
